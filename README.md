@@ -124,3 +124,10 @@ After launching the utility, follow the steps below to apply the English transla
 </tr>
 </tr>
 </table>
+
+<h2>Cheat Mode</h2>
+<img align="right" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/options.png?raw=true" width="290" height="118">In "Rabbit" there exists numerous unlockable options only accessible to players after beating the game with at least one character. As part of this English translation patch, these supplemental options have been enabled by default.
+<br><br>
+Additionally, the behavior of one of these extra options ("DAMAGE") has been modified. Originally, setting "DAMAGE" to "OFF" made both player one and two invincible. However, players of this patch will now find that turning this setting to "OFF" provides unlimited health for player one only.
+<br><br>
+This is particularly useful for those who want to experience each of the eight characters' end-of-game cutscene event without the effort of defeating each opponent along the way.
