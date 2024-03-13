@@ -104,7 +104,7 @@ After launching the utility, follow the steps below to apply the English transla
 <h2>About the Game</h2>
 <table>
 <tr>
-<td><b>Original Title</b></td>
+<td><b>Title</b></td>
 <td>Rabbit (羅媚斗)</td>
 </tr>
 <td><b>Developer</b></td>
