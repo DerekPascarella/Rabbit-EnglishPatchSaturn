@@ -90,3 +90,12 @@ After launching the utility, follow the steps below to apply the English transla
   <li>Initial release.</li>
  </ul>
 </ul>
+
+<h2>What's Changed</h2>
+<ul>
+ <li>All dialogue text has been translated into English.</li>
+ <li>All moves from the in-game command list have been translated into English.</li>
+ <li>Misspellings of original English text corrected (e.g., "EXPART" instead of "EXPERT").</li>
+ <li>The unlockable options menu is now enabled by default.</li>
+ <li>The "DAMAGE" setting from the unlockable options menu has been modified to serve as a cheat mode, giving player one unlimited health. Previously, this setting gave both player one and two unlimited health (see <a href="#cheat-mode">Cheat Mode</a> section).</li>
+</ul>
