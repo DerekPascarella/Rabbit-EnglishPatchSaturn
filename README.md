@@ -120,7 +120,7 @@ After launching the utility, follow the steps below to apply the English transla
 </tr>
 <tr>
 <td><b>Supported Peripherals</b></td>
-<td>Standard Controller, 3D Control Pad (in both analog and digital modes, however anlog stick is non-functional), Back-Up RAM Cartridge</td>
+<td>Control Pad, 3D Control Pad (in both analog and digital modes, however anlog stick is non-functional), Back-Up RAM Cartridge</td>
 </tr>
 </tr>
 </table>
