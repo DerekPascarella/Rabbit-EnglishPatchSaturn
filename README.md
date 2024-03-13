@@ -36,3 +36,57 @@ After launching the utility, follow the steps below to apply the English transla
     </ul>
   <li>Once patching is complete, click "X" at the top-right of the window.</li>
 </ol>
+
+<h2>Credits</h2>
+<ul>
+  <li>
+    <b>PROGRAMMING</b>
+  </li>
+  <ul>
+    <li>Derek Pascarella (ateam)</li>
+  </ul>
+  <br>
+  <li>
+    <b>HACKING</b>
+  </li>
+  <ul>
+    <li>Derek Pascarella (ateam)</li>
+    <li>Bo</li>
+  </ul>
+  <br>
+  <li>
+    <b>Translation</b>
+  </li>
+  <ul>
+    <li>Walnut</li>
+  </ul>
+  <br>
+  <li>
+    <b>Graphics</b>
+  </li>
+  <ul>
+    <li>Derek Pascarella (ateam)</li>
+  </ul>
+  <br>
+  <li>
+    <b>Asset Discovery</b>
+  </li>
+  <ul>
+    <li>Malenko</li>
+  </ul>
+  <br>
+  <li>
+    <b>Special Thanks</b>
+  </li>
+  <ul>
+    <li>Knight0fDragon</li>
+  </ul>
+</ul>
+
+<h2>Release Changelog</h2>
+<ul>
+ <li>Version 1.0 (2024-03-14)</li>
+ <ul>
+  <li>Initial release.</li>
+ </ul>
+</ul>
