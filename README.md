@@ -93,9 +93,34 @@ After launching the utility, follow the steps below to apply the English transla
 
 <h2>What's Changed</h2>
 <ul>
- <li>All dialogue text has been translated into English.</li>
+ <li>All dialogue and cutscene text has been translated into English.</li>
  <li>All moves from the in-game command list have been translated into English.</li>
  <li>Misspellings of original English text corrected (e.g., "EXPART" instead of "EXPERT").</li>
  <li>The unlockable options menu is now enabled by default.</li>
  <li>The "DAMAGE" setting from the unlockable options menu has been modified to serve as a cheat mode, giving player one unlimited health. Previously, this setting gave both player one and two unlimited health (see <a href="#cheat-mode">Cheat Mode</a> section).</li>
+ <li>Game's original data integrity-check code has been disabled to alow for modification of its assets.</li>
 </ul>
+
+<h2>About the Game</h2>
+<table>
+<tr>
+<td><b>Original Title</b></td>
+<td>Rabbit (羅媚斗)</td>
+</tr>
+<td><b>Developer</b></td>
+<td>Aorn</td>
+</tr>
+<tr>
+<td><b>Publisher</b></td>
+<td>Electronic Arts Victor, Inc.</td>
+</tr>
+<tr>
+<td><b>Release Date</b></td>
+<td>June 27th, 1997</td>
+</tr>
+<tr>
+<td><b>Supported Peripherals</b></td>
+<td>Standard Controller, 3D Control Pad (in both analog and digital modes, however anlog stick is non-functional), Back-Up RAM Cartridge</td>
+</tr>
+</tr>
+</table>
