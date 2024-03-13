@@ -28,5 +28,9 @@ After launching the utility, follow the steps below to apply the English transla
   <li>Navigate to the location of "Rabbit (English - v1.0).ssp" and then click "Open" at the bottom right of the dialogue window.</li>
   <li>Check the box at the bottom-right of the window labeled "Separate Track Files (if applicable)".</li>
   <li>Click "Build Image" at the bottom-right of the window and then navigate to the target folder where patched disc image should be stored.</li>
+     <li>MODE, Satiator, and Fenrir users should select "CUE/BIN" under the "Save as type" dropdown.</li>
+     <li>Rhea/Phoebe users should select "CCD/IMG" under the "Save as type" dropdown.
+     <li>Users burning to CD-R should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular burning software.</li>
+     <li>Emulator users should select "CUE/BIN" under the "Save as type" dropdown, as this format is universally compatible with all popular emulators.</li>
   <li>Once patching is complete, click "X" at the top-right of the window.</li>
 </ol>
