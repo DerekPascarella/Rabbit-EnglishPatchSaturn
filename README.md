@@ -1,7 +1,7 @@
 <h1>Rabbit</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/cover.png?raw=true">English translation patch for fighting game "Rabbit" on the Sega Saturn.
 <br><br>
-"Rabbit" is a 2D fighting game with cartoonish and colorful graphics. The game features eight playable characters: Wu-ling (rabbit), Tian-ren (hawk), Egith (ox), Hou-en (wolf), Ja-koh (snake), Yu-lan (fox), Rex (tiger), and Eddy (wild boar). Each character has a special animal spirit that aids them during combat, accompanied by a spirit bar indicating when the player can use each unique special attack.
+"Rabbit" is a 2D fighting game with cartoonish and colorful graphics. The game features eight playable characters: Wu-ling (rabbit), Tian-ren (hawk), Egith (ox), Hou-en (wolf), Ja-koh (snake), Yu-lan (fox), Rex (tiger), and Eddy (wild boar). Each character has a special animal spirit that aids them during combat, accompanied by a "BEAST" meter indicating when the player can use each unique special attack.
 <br><br>
 Once the player has chosen their hero, they must defeat all eight opponents, including the final boss Zao-long.
 <br><br>
