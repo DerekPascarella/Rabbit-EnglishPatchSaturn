@@ -17,7 +17,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 8. [Cheat Mode](#cheat-mode)
 
 <h2>Patching Instructions</h2>
-<img align="right" width="250" height="250" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/patcher.png?raw=true">The SSP file shipped with this patch is for use with <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> version 1.91 BETA or newer. While the <a href="http://redump.org/disc/34316/">Redump version of the game</a> was used as the source disc image during development and testing, Sega Saturn Patcher is a flexible utility that accepts multiple disc image formats as input.
+<img align="right" width="250" height="187" src="https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/blob/main/images/patcher.png?raw=true">The SSP file shipped with this patch is for use with <a href="https://segaxtreme.net/resources/sega-saturn-patcher.73/">Sega Saturn Patcher</a> version 1.91 BETA or newer. While the <a href="http://redump.org/disc/34316/">Redump version of the game</a> was used as the source disc image during development and testing, Sega Saturn Patcher is a flexible utility that accepts multiple disc image formats as input.
 <br><br>
 After launching the utility, follow the steps below to apply the English translation patch.
 <br><br>
