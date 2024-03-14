@@ -130,4 +130,4 @@ After launching the utility, follow the steps below to apply the English transla
 <br><br>
 Additionally, the behavior of one of these extra options ("DAMAGE") has been modified. Originally, setting "DAMAGE" to "OFF" made both player one and two invincible. However, players of this patch will now find that turning this setting to "OFF" provides unlimited health for player one only.
 <br><br>
-This is particularly useful for those who want to experience each of the eight characters' end-of-game cutscene event without the effort of defeating every opponent along the way.
+This is particularly useful for those who want to experience each of the eight characters' end-of-game cutscene events without the effort of defeating every opponent along the way.
