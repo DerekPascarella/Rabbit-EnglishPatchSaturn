@@ -25,7 +25,7 @@ After launching the utility, follow the steps below to apply the English transla
   <li>Click "Select Saturn Game" at the top of the window.</li>
   <li>Click "CD Image", then navigate to the location of your original source disc image and click "Open" at the bottom right of the dialogue window.</li>
   <li>Click "+ Game Patch (SSP)" on the middle-right of the window.</li>
-  <li>Navigate to the location of "Rabbit (English - v1.0).ssp" and then click "Open" at the bottom right of the dialogue window.</li>
+  <li>Navigate to the location of <tt>Rabbit (English - v1.0).ssp</tt> and then click "Open" at the bottom right of the dialogue window.</li>
   <li>Check the box at the bottom-right of the window labeled "Separate Track Files (if applicable)".</li>
   <li>Click "Patch Image" at the bottom-right of the window and then navigate to the target folder where patched disc image should be stored.</li>
     <ul>
