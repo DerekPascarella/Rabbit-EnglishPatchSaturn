@@ -40,14 +40,14 @@ After launching the utility, follow the steps below to apply the English transla
 <h2>Credits</h2>
 <ul>
   <li>
-    <b>PROGRAMMING</b>
+    <b>Programming</b>
   </li>
   <ul>
     <li>Derek Pascarella (ateam)</li>
   </ul>
   <br>
   <li>
-    <b>HACKING</b>
+    <b>Hacking</b>
   </li>
   <ul>
     <li>Derek Pascarella (ateam)</li>
